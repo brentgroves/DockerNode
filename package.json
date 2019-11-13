@@ -1,0 +1,23 @@
+{
+  "name": "DockerNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentgroves/DockerNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentgroves/DockerNode/issues"
+  },
+  "homepage": "https://github.com/brentgroves/DockerNode#readme",
+  "dependencies": {
+    "express": "^3.2.4"
+  }
+}
